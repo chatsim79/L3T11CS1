@@ -33,7 +33,9 @@ once the repository is cloned, cd into the Compulsory Task 1 folder:
 
 "cd Compulsory Task 1"
 
-docker build -t [app-name] ./ 
+and run the following command
+
+"docker build -t [app-name] ./ "
 
 The Build process will occur automatically.
 
@@ -42,7 +44,7 @@ The Build process will occur automatically.
 Run the following command to execute the code remembering to use the
 app name you assigned in the build step.
 
-docker run [app-name]
+"docker run [app-name]"
 
 ## 3 - Credits: 
 
