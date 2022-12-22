@@ -1,0 +1,4 @@
+Per the question in compulsory task 1, the main difference, according to the message
+returned on each set of comparisons, is that the small (sm) model has no word vectors 
+loaded and gives yes useful similarity comparisons. The upshot of this seems to be 
+that the degrees of similarity returned are less than if the larger model was used.
