@@ -1,4 +1,4 @@
-# L3T12CS1 
+# L3T12CT1 
 
 ## Description:
 
@@ -29,7 +29,7 @@ running indepedent of VSC:
 
 once the repository is cloned, cd into the Compulsory Task 1 folder:
 
-"cd L3T12CS1"
+"cd L3T12CT1"
 
 "cd Compulsory Task 1"
 
