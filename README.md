@@ -5,9 +5,8 @@
 This repository contains the files for Level 3 Task 12,
 Compulsory Task 1, as requested in the same's compulsory 
 task. The purpose of this task is to demonstrate capability 
-with the Spacy NLP module. As always, if anything would 
-lose me marks, please fail me and I'll resub with 
-corrections.
+with the Spacy NLP module. Please see included Module/Tutorial 
+PDF with task requirements at bottom for explanation of requirements.
 
 ## Table of Contents:
 
